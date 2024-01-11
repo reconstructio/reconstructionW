@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<!--
+	Construction　英会話スクール 
+	arthur@reconstruction.org
+	
+-->
+<html>
+  <head>
+    <title>Location</title>		
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta charset="utf-8">
+    <style>
+      /* Always set the map height explicitly to define the size of the div
+       * element that contains the map. */
+      #map {
+        height: 100%;
+	width:  50%;
+	
+      }
+      /* Optional: Makes the sample page fill the window. */
+      html, body {
+        height: 80%;
+        margin: 0;
+        padding: 0;
+      }
+    </style>
+    <link rel="stylesheet" href="assets/css/main.css" />
+ </head>
+  <body class="subpage">
+
+		<!-- Header -->
+			<header id="header">
+				<div class="logo"><a href="index.html">Construction <span>英会話</span></a></div>
+				<a href="#menu">メニュー</a>
+			</header>
+		<!-- Nav -->
+			<nav id="menu">
+				<ul class="links">
+					<li><a href="index.html">ホーム</a></li>
+					<li><a href="location.html">場所</a></li>	
+					<li><a href="generic.html">プロフィール　ご挨拶</a></li>
+					<li><a href="elements.html">お問い合わせ</a></li>
+					<li><a href="credits.html">クレジット</a></li>
+				</ul>
+			</nav>
+						<div class="inner">
+							<header class="align-center">
+								<h1>Location</h1>
+								<p>〒989-2311 宮城県</p>
+								
+						</div>				
+							</header>
+
+
+    <div id="map"></div>
+    <script>
+      function initMap() {
+        var uluru = {lat: 38.047020, lng: 140.912688};
+        var map = new google.maps.Map(document.getElementById('map'), {
+          zoom: 15,
+          center: uluru
+        });
+        var marker = new google.maps.Marker({
+          position: uluru,
+          map: map
+        });
+      }
+    </script>
+
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBsLVWlXBc2ufeCl_3_UkwI9gSN-Dz9LPM&callback=initMap"
+    async defer></script>
+ <div class="flex flex-2">
+								<div class="col col2">
+									<h3>〒989-2311 宮城県
+</h3>
+									
+								</div>
+								
+							</div>
+							
+
+				<!-- Section -->
+					<section class="wrapper style1">
+						<div class="inner">
+							<header class="align-center">
+								<h2>Construction　英会話スクール</h2>
+								
+							</header>
+							<div class="flex flex-3">
+								<div class="col align-center">
+									<div class="image round fit">
+										<img src="images/area.png" alt="" />
+									</div>
+									<p>場所 </p>
+									<a href="location.html" class="button">もっと見る</a>
+								</div>
+								<div class="col align-center">
+									<div class="image round fit">
+										<img src="images/profile.jpg" alt="" />
+									</div>
+									<p>プロフィール　ご挨拶 </p>
+									<a href="generic.html" class="button">もっと見る</a>
+								</div>
+								<div class="col align-center">
+									<div class="image round fit">
+										<img src="images/classroom.jpg" alt="" />
+									</div>
+									<p>お問い合わせ</p>
+									<a href="elements.html" class="button">もっと見る</a>
+								</div>
+							</div>
+						</div>
+					</section>
+
+			</div>
+
+		<!-- Footer -->
+			<footer id="footer">
+				<div class="copyright">
+					
+					<p>&copy; 2018 Asao Niimura. All rights reserved. Design: Asao Niimura</a>. </p>
+					<p><a href="credits.html" >Credits</a>
+				</div>
+			</footer>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/skel.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
