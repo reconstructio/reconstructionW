@@ -1,0 +1,577 @@
+<?xml version="1.0"?>
+<album version="1.1">
+  <name>For Sale By Owner </name>
+  <description>1200 square meter lot</description>
+  <author>Arthur Newton</author>
+  <created>2010 8 12</created>
+  <modified>2010 8 12</modified>
+  <theme>Slick</theme>
+  <thumbnailDimensions>200 150</thumbnailDimensions>
+  <slideshowDimensions>600 400</slideshowDimensions>
+  <thumb path="img/album.jpg"/>
+  <subalbum>
+    <thumb path="img/1_thumb.jpg"/>
+    <name>House, Garage, and Lot</name>
+    <description></description>
+    <photo>
+      <description>Great for growing many kinds of vegetables.</description>
+      <image>
+        <md5>bb466101f6bd76021511b38d580deff0</md5>
+        <modified>2010 8 12 18 45 39 0</modified>
+      </image>
+      <slideshow>
+        <md5>269ea11ea04befbe7842adcbd8d22f48</md5>
+        <modified>2010 8 12 18 45 40 0</modified>
+      </slideshow>
+      <thumb>
+        <md5>c128f6c3308376a3ad78fdc9b27dbced</md5>
+        <modified>2010 8 12 18 45 40 0</modified>
+      </thumb>
+    </photo>
+    <photo>
+      <description>Just before the living room floor was finished.</description>
+      <image>
+        <md5>d46f4f020c9490e940bb233307c6ba26</md5>
+        <modified>2010 8 12 18 45 40 0</modified>
+      </image>
+      <slideshow>
+        <md5>2a65997c4343a4ba0c299889c54ab37b</md5>
+        <modified>2010 8 12 18 45 40 0</modified>
+      </slideshow>
+      <thumb>
+        <md5>f8f63e17c6974234070b942e16aaf054</md5>
+        <modified>2010 8 12 18 45 40 0</modified>
+      </thumb>
+    </photo>
+    <photo>
+      <description>Before the entrance steps were built, and before the garden was planted.</description>
+      <image>
+        <md5>e8ef7ceedefff739bfcfa50b77279ce3</md5>
+        <modified>2010 8 12 18 45 40 0</modified>
+      </image>
+      <slideshow>
+        <md5>668aefe509ad086ce688ce74af318cb5</md5>
+        <modified>2010 8 12 18 45 40 0</modified>
+      </slideshow>
+      <thumb>
+        <md5>2add9bd3f98e8dbbdd3a7a488ab68541</md5>
+        <modified>2010 8 12 18 45 40 0</modified>
+      </thumb>
+    </photo>
+    <photo>
+      <description>A North American style bath and shower unit is installed.</description>
+      <image>
+        <md5>3b414a5c56ef6e3f26d975117e4da70f</md5>
+        <modified>2010 8 12 18 45 40 0</modified>
+      </image>
+      <slideshow>
+        <md5>4414907d3318689ab2bf5b3500ce9169</md5>
+        <modified>2010 8 12 18 45 40 0</modified>
+      </slideshow>
+      <thumb>
+        <md5>e92c83f90b8c77ee4f0c10d6f64aa190</md5>
+        <modified>2010 8 12 18 45 40 0</modified>
+      </thumb>
+    </photo>
+    <photo>
+      <description>The living room with exposed ceiling joists imported from Canada.  The  4 Ceiling fans in this room provide an eco friendly alternative to air conditioning systems.</description>
+      <image>
+        <md5>1dffff3bf57cc8c2973f2d391d222509</md5>
+        <modified>2010 8 12 18 45 40 0</modified>
+      </image>
+      <slideshow>
+        <md5>e68062c109d3e64e09562b105faf7d8f</md5>
+        <modified>2010 8 12 18 45 40 0</modified>
+      </slideshow>
+      <thumb>
+        <md5>846a1f7f4efc57a7421cd7cc68921fa5</md5>
+        <modified>2010 8 12 18 45 40 0</modified>
+      </thumb>
+    </photo>
+    <photo>
+      <description>Large capacity rainwater storage tanks provide rainwater for bath, washing, and toilet.  A truly environmentally friendly system.</description>
+      <image>
+        <md5>ea94a32985f482666b8783f2d3aa651a</md5>
+        <modified>2010 8 12 18 45 41 0</modified>
+      </image>
+      <slideshow>
+        <md5>0ab5f7a9c868fde6dbd3f1cf704ab0fe</md5>
+        <modified>2010 8 12 18 45 41 0</modified>
+      </slideshow>
+      <thumb>
+        <md5>4994245954b8af332ac7fa2be5b57584</md5>
+        <modified>2010 8 12 18 45 41 0</modified>
+      </thumb>
+    </photo>
+    <photo>
+      <description>The insulated double wall chimney extends through the building from the highest point of the house.  This allows for a strong draft which helps to have a clean burning fire that produces less smoke.  An efficient way to remove discarded wood and trees that is environmentally friendly.</description>
+      <image>
+        <md5>553a78d9dd7f23fab4987ad9eae67c68</md5>
+        <modified>2010 8 12 18 45 41 0</modified>
+      </image>
+      <slideshow>
+        <md5>a492632fc1d9fd2e5770f051ed0cbd27</md5>
+        <modified>2010 8 12 18 45 41 0</modified>
+      </slideshow>
+      <thumb>
+        <md5>0f83378a37b7fd4f74e72a9c025f863b</md5>
+        <modified>2010 8 12 18 45 41 0</modified>
+      </thumb>
+    </photo>
+    <photo>
+      <description>It is easy to dig potatoes in this sandy soil.</description>
+      <image>
+        <md5>cdb404f5a4c4f985763c424f20865a08</md5>
+        <modified>2010 8 12 18 45 41 0</modified>
+      </image>
+      <slideshow>
+        <md5>8770fab312ecc81401aa82580a01f303</md5>
+        <modified>2010 8 12 18 45 41 0</modified>
+      </slideshow>
+      <thumb>
+        <md5>18fbfabb0a0342ccd2149956a6e4c180</md5>
+        <modified>2010 8 12 18 45 41 0</modified>
+      </thumb>
+    </photo>
+    <photo>
+      <description>There is a good western view of the garden from the kitchen window.</description>
+      <image>
+        <md5>c1a5c7e346d50efad5b60ed1f0df36e3</md5>
+        <modified>2010 8 12 18 45 41 0</modified>
+      </image>
+      <slideshow>
+        <md5>4301a41fa7e7f1660025304656fb51bf</md5>
+        <modified>2010 8 12 18 45 41 0</modified>
+      </slideshow>
+      <thumb>
+        <md5>61262254df650aa6e78c15535183c3ec</md5>
+        <modified>2010 8 12 18 45 41 0</modified>
+      </thumb>
+    </photo>
+    <photo>
+      <description>Just before the cieling fans were installed and the walls painted in the living room.</description>
+      <image>
+        <md5>87e0b57ec26992d3e0129d6ce742ebd5</md5>
+        <modified>2010 8 12 18 45 41 0</modified>
+      </image>
+      <slideshow>
+        <md5>677a53edad1c4adbd02f524df5dbaa34</md5>
+        <modified>2010 8 12 18 45 42 0</modified>
+      </slideshow>
+      <thumb>
+        <md5>5b8cb48b1c1bc2e998c3fc48508e67fe</md5>
+        <modified>2010 8 12 18 45 42 0</modified>
+      </thumb>
+    </photo>
+    <photo>
+      <description>When the house framing was completed. The garge is separated but is connected by a short hall.</description>
+      <image>
+        <md5>0ed2e7b61b29c7c11b6611773d523c5a</md5>
+        <modified>2010 8 12 18 45 42 0</modified>
+      </image>
+      <slideshow>
+        <md5>416e6b12c74e86b89d06bc2b53913e0a</md5>
+        <modified>2010 8 12 18 45 43 0</modified>
+      </slideshow>
+      <thumb>
+        <md5>920a5b0f14c65368ed4d6d40f01e82cf</md5>
+        <modified>2010 8 12 18 45 43 0</modified>
+      </thumb>
+    </photo>
+    <photo>
+      <description>There are two washbasins, one is in the bathroom, and the other is this one, in the toilet room, before the faucets were installed.</description>
+      <image>
+        <md5>84efc5534777401612d5dde943fa22b3</md5>
+        <modified>2010 8 12 18 45 43 0</modified>
+      </image>
+      <slideshow>
+        <md5>7fc4fb9dcb4978721006f98654b0a5ce</md5>
+        <modified>2010 8 12 18 45 43 0</modified>
+      </slideshow>
+      <thumb>
+        <md5>c0c45948da399bd7f58ffd131377b7b8</md5>
+        <modified>2010 8 12 18 45 43 0</modified>
+      </thumb>
+    </photo>
+    <photo>
+      <description>The kitchen sink, with the hand finished oak face cabinets.</description>
+      <image>
+        <md5>20b6bf4405a0820b1f56e44f6de5208d</md5>
+        <modified>2010 8 12 18 45 43 0</modified>
+      </image>
+      <slideshow>
+        <md5>313a50fac403509aa0ee798eeb6e1824</md5>
+        <modified>2010 8 12 18 45 43 0</modified>
+      </slideshow>
+      <thumb>
+        <md5>13357ac3dc86bace4a5ab9fb3270182a</md5>
+        <modified>2010 8 12 18 45 43 0</modified>
+      </thumb>
+    </photo>
+    <photo>
+      <description>Here is the washbasin in the bathroom, before the faucetts were installed.</description>
+      <image>
+        <md5>6e0803c08378c4c74511cf116311f904</md5>
+        <modified>2010 8 12 18 45 43 0</modified>
+      </image>
+      <slideshow>
+        <md5>036e5860080b40d4bd8ab2249c7a8077</md5>
+        <modified>2010 8 12 18 45 43 0</modified>
+      </slideshow>
+      <thumb>
+        <md5>32be2f7763b9d1e2d6ea7af72a660682</md5>
+        <modified>2010 8 12 18 45 43 0</modified>
+      </thumb>
+    </photo>
+    <photo>
+      <description>Looking out the kitchen window toward the garden.</description>
+      <image>
+        <md5>5fadf4f69c9c744e58ee1d2421bc3621</md5>
+        <modified>2010 8 12 18 45 43 0</modified>
+      </image>
+      <slideshow>
+        <md5>09a5701d77510c47ae18a5c57638171b</md5>
+        <modified>2010 8 12 18 45 43 0</modified>
+      </slideshow>
+      <thumb>
+        <md5>59e14515f507a264659ec8952eaf6333</md5>
+        <modified>2010 8 12 18 45 43 0</modified>
+      </thumb>
+    </photo>
+    <photo>
+      <description>The two bay garage with high cieling just before the siding was finished.</description>
+      <image>
+        <md5>f99a7bea0d7ddc5e39a9e2f6cde3e5e5</md5>
+        <modified>2010 8 12 18 45 43 0</modified>
+      </image>
+      <slideshow>
+        <md5>cadd4f4335e293bbc02cd6b50b7b66e7</md5>
+        <modified>2010 8 12 18 45 44 0</modified>
+      </slideshow>
+      <thumb>
+        <md5>f230da50c2d50a9b9b664d503b354e08</md5>
+        <modified>2010 8 12 18 45 44 0</modified>
+      </thumb>
+    </photo>
+    <photo>
+      <description>One of the large rainwater tanks in front of the house...</description>
+      <image>
+        <md5>be827c6818c143ec03a9876660ee9c74</md5>
+        <modified>2010 8 12 18 45 44 0</modified>
+      </image>
+      <slideshow>
+        <md5>31d7a4c81850491d2174e26019a744bb</md5>
+        <modified>2010 8 12 18 45 44 0</modified>
+      </slideshow>
+      <thumb>
+        <md5>af9fc71ef379e78b7937a322bbd12c74</md5>
+        <modified>2010 8 12 18 45 44 0</modified>
+      </thumb>
+    </photo>
+    <photo>
+      <description>...and the rainwater tank behind the house.</description>
+      <image>
+        <md5>047a186d587eeec4bce79ef7b9b425ce</md5>
+        <modified>2010 8 12 18 45 44 0</modified>
+      </image>
+      <slideshow>
+        <md5>aa4a772b82727df9b85b421325f43fb4</md5>
+        <modified>2010 8 12 18 45 44 0</modified>
+      </slideshow>
+      <thumb>
+        <md5>eecac07bc2c3bb3f2a9f888dadea9f3c</md5>
+        <modified>2010 8 12 18 45 44 0</modified>
+      </thumb>
+    </photo>
+    <photo>
+      <description>Looking out the window from the master bedroom on the second floor.  The pine grove in the distance runs along the seacoast.</description>
+      <image>
+        <md5>169574bb22dfb85df876c9a9975b240e</md5>
+        <modified>2010 8 12 18 45 44 0</modified>
+      </image>
+      <slideshow>
+        <md5>83db9ea00e5c0763d5fa4dae49ebb96c</md5>
+        <modified>2010 8 12 18 45 45 0</modified>
+      </slideshow>
+      <thumb>
+        <md5>c90aaeb221d98c8b3bd15069845b4cf9</md5>
+        <modified>2010 8 12 18 45 45 0</modified>
+      </thumb>
+    </photo>
+    <photo>
+      <description>From the Living-dining area, looking into the kitchen.</description>
+      <image>
+        <md5>07b2ca2c5f9392d35f4e631d0208f2a6</md5>
+        <modified>2010 8 12 18 45 45 0</modified>
+      </image>
+      <slideshow>
+        <md5>94c13a800a6222052f564365fdfd13dc</md5>
+        <modified>2010 8 12 18 45 45 0</modified>
+      </slideshow>
+      <thumb>
+        <md5>f7f3c93eb016e2eed7bb63e171850dbc</md5>
+        <modified>2010 8 12 18 45 45 0</modified>
+      </thumb>
+    </photo>
+    <photo>
+      <description>Looking out the East window of the second floor main room, over the garage roof.</description>
+      <image>
+        <md5>ab0a554ce721fd091bc9cb0bdfb2d2a7</md5>
+        <modified>2010 8 12 18 45 46 0</modified>
+      </image>
+      <slideshow>
+        <md5>5af9b1b855ccf8cb8cb8076f1c5990f5</md5>
+        <modified>2010 8 12 18 45 46 0</modified>
+      </slideshow>
+      <thumb>
+        <md5>1acda894d21f405d6d7d0418545ed3c7</md5>
+        <modified>2010 8 12 18 45 46 0</modified>
+      </thumb>
+    </photo>
+    <photo>
+      <description>The stairway, a simple Western style design.</description>
+      <image>
+        <md5>e0326216e3f4fff09beb5b5fb1972917</md5>
+        <modified>2010 8 12 18 45 46 0</modified>
+      </image>
+      <slideshow>
+        <md5>443644b17e5cddc40644baaaa2663be0</md5>
+        <modified>2010 8 12 18 45 47 0</modified>
+      </slideshow>
+      <thumb>
+        <md5>68bc5a73965af4ab5bd1f6dc49e3d46f</md5>
+        <modified>2010 8 12 18 45 47 0</modified>
+      </thumb>
+    </photo>
+    <photo>
+      <description>The right bay of the garage.</description>
+      <image>
+        <md5>549972dcfe6473a85b2969b4ee81aae5</md5>
+        <modified>2010 8 12 18 45 47 0</modified>
+      </image>
+      <slideshow>
+        <md5>a9b12ecbdaba644521432758f669aafc</md5>
+        <modified>2010 8 12 18 45 47 0</modified>
+      </slideshow>
+      <thumb>
+        <md5>3fbc9206516d18846ef116bf2a77f917</md5>
+        <modified>2010 8 12 18 45 47 0</modified>
+      </thumb>
+    </photo>
+    <photo>
+      <description>The left bay, used for parking a car.  After getting out of the car, one can walk directly into the house.</description>
+      <image>
+        <md5>344176f4dec6899b7189b23a43555f2b</md5>
+        <modified>2010 8 12 18 45 47 0</modified>
+      </image>
+      <slideshow>
+        <md5>76db69a19c76e2e7c1a9a351f4818c53</md5>
+        <modified>2010 8 12 18 45 47 0</modified>
+      </slideshow>
+      <thumb>
+        <md5>6b77a2285f2cd5cab5078c6900de9f44</md5>
+        <modified>2010 8 12 18 45 47 0</modified>
+      </thumb>
+    </photo>
+    <photo>
+      <description>The master bedroom on the second floor, closet visible on the left.</description>
+      <image>
+        <md5>c255f508fdd8b2fdc9fda7c2085be8af</md5>
+        <modified>2010 8 12 18 45 48 0</modified>
+      </image>
+      <slideshow>
+        <md5>4d84621be6fb7ce0b4ef1e6b9ef9fc90</md5>
+        <modified>2010 8 12 18 45 48 0</modified>
+      </slideshow>
+      <thumb>
+        <md5>4a2fb532e7ecc316b9dcd21c14972307</md5>
+        <modified>2010 8 12 18 45 48 0</modified>
+      </thumb>
+    </photo>
+    <photo>
+      <description>The second bedroom.  Both bedrooms have natural Canadian Pacific Pine wood ceilings.</description>
+      <image>
+        <md5>ea5546fcb31c042c3f20057c23509fea</md5>
+        <modified>2010 8 12 18 45 48 0</modified>
+      </image>
+      <slideshow>
+        <md5>67373aaf4866b8f3ef7d3ac20860291c</md5>
+        <modified>2010 8 12 18 45 48 0</modified>
+      </slideshow>
+      <thumb>
+        <md5>46e32e68bb23952cc6c2a86a650eec8a</md5>
+        <modified>2010 8 12 18 45 48 0</modified>
+      </thumb>
+    </photo>
+    <photo>
+      <description>Looking out the West window of the second floor main room.</description>
+      <image>
+        <md5>509cb5f14e9e1a7017f677f71106df88</md5>
+        <modified>2010 8 12 18 45 48 0</modified>
+      </image>
+      <slideshow>
+        <md5>5d7a49a33b432011e349da3c7d990e54</md5>
+        <modified>2010 8 12 18 45 48 0</modified>
+      </slideshow>
+      <thumb>
+        <md5>1d136b82b022d5b8d2a90942d51248cf</md5>
+        <modified>2010 8 12 18 45 48 0</modified>
+      </thumb>
+    </photo>
+    <photo>
+      <description>The cast iron wood burning stove is also used for some cooking during the cold months.</description>
+      <image>
+        <md5>069de775074c391bb269584692232d89</md5>
+        <modified>2010 8 12 18 45 49 0</modified>
+      </image>
+      <slideshow>
+        <md5>ec7ac133619329b519c5e314eb0aa487</md5>
+        <modified>2010 8 12 18 45 49 0</modified>
+      </slideshow>
+      <thumb>
+        <md5>d31ee2a5c8f297138b0d3662dcbc392f</md5>
+        <modified>2010 8 12 18 45 49 0</modified>
+      </thumb>
+    </photo>
+  </subalbum>
+  <subalbum>
+    <thumb path="img/2_thumb.jpg"/>
+    <name>Going to the Beach</name>
+    <description>A 15 minute walk to the beach</description>
+    <photo>
+      <description>We walk through the gate and begin the walk to the beach.</description>
+      <image>
+        <md5>b37f3b9c69ccc46dba09aab938275508</md5>
+        <modified>2010 8 12 19 49 17 0</modified>
+      </image>
+      <slideshow>
+        <md5>db0f29b000b1394ced591ec2e4d42a8c</md5>
+        <modified>2010 8 12 19 49 17 0</modified>
+      </slideshow>
+      <thumb>
+        <md5>b709290578ae0fcc9e8e0cdf00c8adfb</md5>
+        <modified>2010 8 12 19 49 17 0</modified>
+      </thumb>
+    </photo>
+    <photo>
+      <description>Just outside the gate we walk past the strawberry fields.</description>
+      <image>
+        <md5>1c35fae4d2891d10a8aa47cfea66aeea</md5>
+        <modified>2010 8 12 19 49 17 0</modified>
+      </image>
+      <slideshow>
+        <md5>c46c35a36d085649960932e338055189</md5>
+        <modified>2010 8 12 19 49 17 0</modified>
+      </slideshow>
+      <thumb>
+        <md5>1309c3b1a6170e47a0273f8f0ba98edb</md5>
+        <modified>2010 8 12 19 49 17 0</modified>
+      </thumb>
+    </photo>
+    <photo>
+      <description>We cross the bridge and then turn left toward the horizon.  People go fishing in this river.</description>
+      <image>
+        <md5>75e8d2f59cbb58ba00ee0a591af103c8</md5>
+        <modified>2010 8 12 19 49 18 0</modified>
+      </image>
+      <slideshow>
+        <md5>ce3a9ea49b356dc2355efa67513b3970</md5>
+        <modified>2010 8 12 19 49 18 0</modified>
+      </slideshow>
+      <thumb>
+        <md5>0f440039469ed3c628ee12d04de521f2</md5>
+        <modified>2010 8 12 19 49 18 0</modified>
+      </thumb>
+    </photo>
+    <photo>
+      <description>The road forks, we head left toward the sea.</description>
+      <image>
+        <md5>38b3af1d8106bac75347b9d1e0c34bf5</md5>
+        <modified>2010 8 12 19 49 18 0</modified>
+      </image>
+      <slideshow>
+        <md5>0da7e52cfbbe7d72a01ed9972fbc8238</md5>
+        <modified>2010 8 12 19 49 18 0</modified>
+      </slideshow>
+      <thumb>
+        <md5>80b9f97fd8f7b45960552abce3449e2a</md5>
+        <modified>2010 8 12 19 49 18 0</modified>
+      </thumb>
+    </photo>
+    <photo>
+      <description>The road winds around, almost there.</description>
+      <image>
+        <md5>e1328469541c0d3e4a51ba10b12cd03a</md5>
+        <modified>2010 8 12 19 49 18 0</modified>
+      </image>
+      <slideshow>
+        <md5>a26454c3ddc0f79355a992b857267707</md5>
+        <modified>2010 8 12 19 49 18 0</modified>
+      </slideshow>
+      <thumb>
+        <md5>40c593589143c675363062f80900d4f0</md5>
+        <modified>2010 8 12 19 49 18 0</modified>
+      </thumb>
+    </photo>
+    <photo>
+      <description>We go to the top of the seawall....</description>
+      <image>
+        <md5>910b639c69e38e7afb6e96c9c02a2040</md5>
+        <modified>2010 8 12 19 49 18 0</modified>
+      </image>
+      <slideshow>
+        <md5>326e363d7025d44785a1b14ce7053454</md5>
+        <modified>2010 8 12 19 49 18 0</modified>
+      </slideshow>
+      <thumb>
+        <md5>c02dc15ff824e57f00e7c33ddd7cebb1</md5>
+        <modified>2010 8 12 19 49 18 0</modified>
+      </thumb>
+    </photo>
+    <photo>
+      <description>....and here is the beach.</description>
+      <image>
+        <md5>9de6dc2e1a433e80bcd6b1574a15278f</md5>
+        <modified>2010 8 12 19 49 18 0</modified>
+      </image>
+      <slideshow>
+        <md5>71dff6017da9f92d9e59977a810d1793</md5>
+        <modified>2010 8 12 19 49 19 0</modified>
+      </slideshow>
+      <thumb>
+        <md5>6d160013d7745c44dd3b81347c7cec1f</md5>
+        <modified>2010 8 12 19 49 19 0</modified>
+      </thumb>
+    </photo>
+    <photo>
+      <description>Sometimes surfers can be seen here.  Some people occasionally drive or ride bicycles along the top of the seawall.</description>
+      <image>
+        <md5>011f60258d5d92c542ad027128e17e0b</md5>
+        <modified>2010 8 12 19 49 19 0</modified>
+      </image>
+      <slideshow>
+        <md5>221bd132698c54645e73ad6e59b5f95a</md5>
+        <modified>2010 8 12 19 49 20 0</modified>
+      </slideshow>
+      <thumb>
+        <md5>7d19934de4dc9a895b298fcb8c411505</md5>
+        <modified>2010 8 12 19 49 20 0</modified>
+      </thumb>
+    </photo>
+    <photo>
+      <description>On the way back to the house, a different road can be taken through the pine grove.</description>
+      <image>
+        <md5>56bfe132cfacd87e49f61b78a4c8cdda</md5>
+        <modified>2010 8 12 19 49 20 0</modified>
+      </image>
+      <slideshow>
+        <md5>7f44e2fe777198c09dced0ce6e227d47</md5>
+        <modified>2010 8 12 19 49 20 0</modified>
+      </slideshow>
+      <thumb>
+        <md5>774dc0bf91912c0ce31408597be77289</md5>
+        <modified>2010 8 12 19 49 20 0</modified>
+      </thumb>
+    </photo>
+  </subalbum>
+</album>
